@@ -1,3 +1,4 @@
+import kivy
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.gridlayout import GridLayout
@@ -11,8 +12,6 @@ from kivy.uix.checkbox import CheckBox
 from kivy.uix.textinput import TextInput
 import yfinance as yf
 import numpy
-import json
-from datetime import datetime
 from plyer import notification
 
 
