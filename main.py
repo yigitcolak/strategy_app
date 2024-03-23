@@ -12,7 +12,6 @@ from kivy.uix.textinput import TextInput
 import yfinance as yf
 import numpy
 from datetime import datetime
-import json
 from plyer import notification
 
 
